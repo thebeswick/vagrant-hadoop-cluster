@@ -1,5 +1,6 @@
 vagrant-hadoop-cluster
 ======================
+Updating to get it to work with VMware Fusion and Vagrant 1.3.x
 
 Deploying hadoop in a virtualized cluster in simple steps
 
